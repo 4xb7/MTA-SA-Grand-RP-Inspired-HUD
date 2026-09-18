@@ -24,7 +24,7 @@ The configuration file allows you to adjust the following options:
 | Option | Description | Example / Default |
 | :--- | :--- | :--- |
 | `ServerName` | Displayed server name (supports color codes) | `'Server #e10f28Name'` |
-| `ID.enable` | Toggle player ID visibility  `true` |
+| `ID.enable` | Toggle player ID visibility  | `true` |
 | `ID.color` | Color format for player ID indicator | `tocolor(225, 15, 40, 255)` |
 | `Bookmark.enable` | Toggle top-right server number bookmark badge | `true` |
 | `Bookmark.servernum` | Server badge index number | `1` |
