@@ -6,7 +6,7 @@ A clean, modern, standalone heads-up display (HUD) script for Multi Theft Auto: 
 
 ## Preview
 
-![HUD Preview](https://imgur.com/beKmLT8)
+![HUD Preview](https://i.imgur.com/beKmLT8.jpeg)
 
 ---
 
